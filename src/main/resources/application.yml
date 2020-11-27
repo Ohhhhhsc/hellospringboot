@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: jdbc
+http:
+  encoding:
+    charset: UTF-8
+
+server:
+  port: 8090
